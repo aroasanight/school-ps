@@ -1,0 +1,8 @@
+/* Option 1 */
+#TabsToolbar {
+    visibility: collapse !important;
+}
+/* hides the sidebar */
+#sidebar-header {
+  visibility: collapse !important;
+} 
